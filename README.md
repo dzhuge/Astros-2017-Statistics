@@ -20,3 +20,6 @@
 ![image](https://user-images.githubusercontent.com/43827694/84600982-0133ef00-ae32-11ea-910e-ec2091d12db3.png)
 (https://www.blowoutforums.com/showthread.php?t=1331879&page=6)
 
+
+![image](https://i.redd.it/5lzudrwoyqg41.jpg)
+(https://www.reddit.com/r/Dodgers/comments/f3fv29/shoutout_to_ktla_jose_altuve_astros_cheater/)
