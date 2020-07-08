@@ -1,8 +1,13 @@
-# WOW, the Astros were REALLY Good in 2017, Huh?
- Maybe because they cheated
- 
  WIP
  
+ In 2017 (Possibly 2018 & 2019), the Houston Astros allegedly used a setup with a monitor in the dugout and a trashcan. The monitor was used to steal signs made by the catcher.
+
+After the sign was made, a trash can was hit to signal to the batter what pitch was incoming. No bangs meant a fastball was coming, a bang meant an off-speed pitch (slider, curve ball, etc.)
+
+While the Astros have a very talented team, their cheating set-up was a factor in their World Series winning season.
+
+I use Tableau to compare statistics across the league.
+
  Data Obtained from:
  - https://www.baseball-reference.com/leagues/MLB/2017-ratio-batting.shtml
  - https://www.baseball-reference.com/leagues/MLB/2017.shtml
