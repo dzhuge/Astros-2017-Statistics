@@ -6,6 +6,8 @@ After the sign was made, a trash can was hit to signal to the batter what pitch 
 
 While the Astros have a very talented team, their cheating set-up was a factor in their World Series winning season.
 
+Sign stealing is normal and a part of the game. Electronically stealing signs is not.
+
 I use Tableau to compare statistics across the league.
 
  Data Obtained from:
