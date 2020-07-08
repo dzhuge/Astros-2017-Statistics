@@ -1,6 +1,6 @@
  WIP
  
- In 2017 (Possibly 2018 & 2019), the Houston Astros allegedly used a setup with a monitor in the dugout and a trashcan. The monitor was used to steal signs made by the catcher.
+ In 2017 (Possibly 2018 & 2019), the Houston Astros allegedly used a setup with a monitor (and laptop?) in the dugout and a trashcan. The monitor was used to steal signs made by the catcher.
 
 After the sign was made, a trash can was hit to signal to the batter what pitch was incoming. No bangs meant a fastball was coming, a bang meant an off-speed pitch (slider, curve ball, etc.)
 
