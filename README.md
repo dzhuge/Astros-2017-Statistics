@@ -1,10 +1,10 @@
  WIP
  
-In 2017 (Possibly 2018 & 2019), the Houston Astros used a setup with a monitor (and laptop?) in the dugout and a trashcan. The monitor had the electronic feed of the game to steal signs made by the opposing team's catcher.
+In 2017 (Possibly 2018 & 2019), the Houston Astros used a setup with a monitor and trashcan in the dugout. The monitor had the electronic feed of the game which the watcher would use to steal signs made by the opposing team's catcher.
 
 After the sign was made, a trash can was hit to signal to the batter what pitch was incoming. No bangs meant a fastball was coming, a bang meant an off-speed pitch (slider, curve ball, etc.)
 
-A specific number of bangs would indicate different off-speed pitches.
+In some instances, a specific number of bangs would indicate different off-speed pitches.
 
 I use Tableau to compare statistics across the league.
 
